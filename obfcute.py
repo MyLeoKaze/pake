@@ -10,7 +10,7 @@ import os
 import urllib
 import json
 
-nicknm = "JERZZY"
+nicknm = "Rynnn"
 
 methods = """
 \033[35m╔════════════════════════╗
